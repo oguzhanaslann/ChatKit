@@ -30,7 +30,7 @@ publish {
 
 ext {
     supportVersion = '27.1.1'
-    flexboxVersion = '1.0.0'
+    flexboxVersion = '3.0.0'
 }
 
 dependencies {
